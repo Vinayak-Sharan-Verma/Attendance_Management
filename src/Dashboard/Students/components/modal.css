@@ -1,0 +1,13 @@
+.modal-overlay {
+    position: fixed;
+    margin-right: 50px;
+    top: 50;
+    left: 40%;
+   /* background: rgba(0, 0, 0, 0.5);  */
+    align-items: center;
+    z-index: 1000;
+}
+  
+.modal-content {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
